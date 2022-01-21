@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Restricted access - Haukai Staff Only"
-AuthUserFile "/haukaistaff/.htpasswd"
+AuthUserFile "/app/.htpasswd"
 Require valid-user
