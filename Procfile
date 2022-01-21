@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 web/
+HAUKAI WEB APPLICATION: vendor/bin/heroku-php-apache2 web/
